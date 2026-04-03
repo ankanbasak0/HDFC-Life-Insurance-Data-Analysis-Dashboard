@@ -3,4 +3,4 @@ Designed and developed an end-to-end interactive Power BI dashboard analyzing 10
 
 Tools: Power BI Desktop · Power Query · DAX · Data Modeling · CSV
 
-![Dashboard Preview](report cover.png)
+![Dashboard Preview](cover.png)
